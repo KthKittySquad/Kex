@@ -98,3 +98,8 @@ If you see warnings about CUDA not being found:
 - The model expects 8-dimensional joint angle input specifically
 - GPU acceleration requires CUDA 12 compatibility
 - Processing time depends on data size and GPU capabilities
+
+
+## Collaborators
+- Albin Wallenius Woxnerud alww@kth.see
+- Marcus Carlbom mcarlbo@kth.se
